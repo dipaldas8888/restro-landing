@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
 import Banner from "./components/Banner";
 import Choose from "./components/Choose";
+import About from "./components/About";
 import "./App.css";
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
         <Hero />
         <Banner />
         <Choose />
+        <About />
       </div>
     </>
   );
