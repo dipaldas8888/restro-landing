@@ -4,6 +4,7 @@ import Hero from "./components/Hero";
 import Banner from "./components/Banner";
 import Choose from "./components/Choose";
 import About from "./components/About";
+import Footer from "./components/Footer";
 import "./App.css";
 
 function App() {
@@ -15,6 +16,7 @@ function App() {
         <Banner />
         <Choose />
         <About />
+        <Footer />
       </div>
     </>
   );
